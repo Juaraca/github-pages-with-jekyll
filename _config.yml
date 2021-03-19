@@ -4,7 +4,7 @@ email: naujzarimar16@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   What are you up to? In my blog you will see all my progress 
   and I will teach you all my skills about GitHub Pages
-theme: minima
+theme: jekyll-theme-merlot
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
